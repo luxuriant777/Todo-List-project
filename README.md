@@ -5,7 +5,7 @@ Django project for managing of your tasks
 ## Features
 
 * create, update, delete your tasks, make them completed or uncompleted
-* create, update, delete tags, related to these tasks
+* create, update, delete tags related to these tasks
 * mark tasks by appropriate tags
 
 ![Screenshot_1](https://user-images.githubusercontent.com/20545475/201633779-9852e20f-5d48-43cd-9b86-f23e130544e0.png)
